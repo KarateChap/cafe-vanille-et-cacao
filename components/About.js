@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 const About = () => {
   return (
     <div
-      className="relative w-full h-[65vh]  flex flex-col items-center justify-center gap-12 p-5 md:p-20"
+      className="relative w-full h-[65vh]  flex flex-col items-center justify-center gap-12 p-5 md:p-20 bg-white"
       id="about"
     >
       <motion.div

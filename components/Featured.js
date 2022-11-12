@@ -22,7 +22,7 @@ const Featured = () => {
   ];
 
   return (
-    <div className="w-full h-[auto] flex flex-col items-center justify-center py-20 px-10 gap-10" id="featured">
+    <div className="w-full h-[auto] flex flex-col items-center justify-center py-20 px-10 gap-10 bg-white" id="featured">
       <h1 className="font-[Sugar] text-3xl tracking-wider">
         Featured Products
       </h1>
