@@ -27,7 +27,7 @@ const Menu = () => {
           return (
             <div
               key={menu}
-              className="outline outline-white text-white tracking-wider font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 w-[250px] text-center"
+              className="bg-white tracking-wider font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 w-[250px] text-center"
             >
               {menu}
             </div>
@@ -35,7 +35,7 @@ const Menu = () => {
         })}
       </div>
       <div className="flex justify-center">
-        <div className="bg-white  font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 active:scale-95">
+        <div className="bg-[#33221a] text-white  font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 active:scale-95">
           <a href="https://drive.google.com/drive/folders/12nj-AeJKdy7CTM8VGq2N93paZ0n9Yoza?usp=sharing" target='_blank' rel="noreferrer">View Menu</a>
         </div>
       </div>
