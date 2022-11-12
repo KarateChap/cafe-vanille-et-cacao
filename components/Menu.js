@@ -27,7 +27,7 @@ const Menu = () => {
           return (
             <div
               key={menu}
-              className="bg-white tracking-wider font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 w-[250px] text-center"
+              className="bg-white hover:bg-[#33221a] hover:text-white tracking-wider font-[Sugar] text-xl px-10 py-3 rounded-xl cursor-pointer hover:scale-105 duration-75 w-[250px] text-center"
             >
               {menu}
             </div>
