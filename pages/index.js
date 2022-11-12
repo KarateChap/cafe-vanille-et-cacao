@@ -17,9 +17,9 @@ export default function Home() {
       <About />
       <div className="bg-[url('/bg-cacao.png')] w-full bg-cover h-[20vh] md:h-[60vh] bg-no-repeat bg-bottom"></div>
       <div
-        className="w-full h-[15vh] flex justify-center items-center text-xl text-center md:text-2xl bg-[#33221a] text-white p-5"
+        className="w-full h-[15vh] flex justify-center items-center text-xl text-center md:text-xl tracking-wider font-[Sugar] bg-[#33221a] text-white p-5"
       >
-        <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h1>
+        <h1>[Sample Tagline] Life’s too short for boring food, you deserve Cafe Vanille et Cacao! </h1>
       </div>
       <Featured />
       <Menu />

@@ -31,10 +31,9 @@ const About = () => {
         }}
         className="flex max-w-[80%] md:max-w-[520px] text-center text-xl"
       >
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-          tempor nulla eget ex interdum rutrum. Cras id nisi sem. Praesent
-          eleifend.
+        <p className="text-xl">
+          [Sample Description] Cafe Vanille et Cacao is a store that offers variety of food and drinks 
+          located in Barangay Bisig, Valenzuela City. Get a taste of delectable dishes now!
         </p>
       </motion.div>
       <motion.div
