@@ -16,7 +16,7 @@ const Menu = () => {
   ];
 
   return (
-    <div className="bg-[url('/bg-rock.png')] w-full h-[120vh] sm:h-[80vh] lg:h-[55vh] bg-cover bg-no-repeat bg-center flex flex-col py-14 gap-6 justify-center items-center" id="menu">
+    <div className="bg-[url('/bg-rock.png')] w-full h-[130vh] sm:h-[100vh] lg:h-[55vh] bg-cover bg-no-repeat bg-center flex flex-col py-14 gap-6 justify-center items-center" id="menu">
       <div className="flex justify-center items-center">
         <h1 className="font-[Sugar] text-3xl text-white tracking-wider">
           Food and Drink Menu
