@@ -19,7 +19,7 @@ export default function Home() {
       <div
         className="w-full h-[15vh] flex justify-center items-center text-xl text-center md:text-xl tracking-wider font-[Sugar] bg-[#33221a] text-white p-5"
       >
-        <h1>It doesn't have to be expensive to be delicious</h1>
+        <h1>It doesn't have to be expensive to be delicious...</h1>
       </div>
       <Featured />
       <Menu />
